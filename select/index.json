@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "青い車",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-16T14:44:18.840450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青い車",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_青い車_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青い車",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_青い車_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青い車",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/03_青い車_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青い車(Album Version)",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_青い車(Album_Version)_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青い車",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/05_青い車_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青い車",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/06_青い車_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青い車",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/07_青い車_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青い車 (Album Version)",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/08_青い車_(Album_Version)_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青い車 (Album Version)",
+      "artist": "Spitz",
+      "has_synced": false,
+      "path": "select/09_青い車_(Album_Version)_Spitz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青い車",
+      "artist": "Spitz",
+      "has_synced": false,
+      "path": "select/10_青い車_Spitz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青い車 (Album Version)",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/11_青い車_(Album_Version)_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青い車",
+      "artist": "ゲントウキ",
+      "has_synced": true,
+      "path": "select/12_青い車_ゲントウキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青い車",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_青い車_スピッツ.txt"
+    }
+  ]
+}
